@@ -1,8 +1,8 @@
 # StreamlitApp-Automate-Idea-Suggestion
 
 1. pabbly connect
- |action
+ |-action
 * create workflow -> webhook->url 
 2. next application ->
-  |action
+  |-action
 * google sheet
